@@ -5,3 +5,6 @@ Shows all interactive alerts from 5 most used interaction drugs utilities in all
 
 Methods
 
+Dr Eric Grossi Morato
+
+https://twitter.com/ericneuro
